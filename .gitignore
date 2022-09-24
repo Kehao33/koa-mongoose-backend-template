@@ -4,6 +4,7 @@ node_modules/
 coverage/
 .idea/
 run/
+.env
 logs/
 .DS_Store
 .vscode
